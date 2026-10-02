@@ -66,7 +66,7 @@ rm -rf $SOPHOS_DIR
 exit 0
 
 And click save> give file Name, and verify file format as .sh
-For more information on the command-line options, see Installer command-line options for Mac.
+For more information on the command-line options, [see Installer command-line options for Mac](https://docs.sophos.com/central/customer/help/en-us/PeopleAndDevices/ProtectDevices/EndpointProtection/CentralMacCommandLineOptions/index.html#device-tags).
 
 Installing the script to device
 Click on Automate> Active Automation> New Automation > select macOS >Quick> Name the Automation as Sophos install script and click Next.
@@ -78,4 +78,4 @@ You can can check in Hexnode policies status, Automation Reports
 Check that your managed Macs have Sophos Endpoint installed on them. On each Mac, check the following:
 In System Preferences check Profiles. You should see the name of the configuration profile you set up in Hexnode.
 In Sophos Endpoint, check the Endpoint Self Help tool. Any issues with installation or configuration are shown here.
-For help on fixing permission issues, see Security permissions on macOS
+For help on fixing permission issues, [see Security permissions on macOS](https://docs.sophos.com/central/customer/help/en-us/PeopleAndDevices/ProtectDevices/EndpointProtection/MacSecurityPermissions)
